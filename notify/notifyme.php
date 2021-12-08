@@ -12,7 +12,7 @@ while (true){
     $loop_count = $loop_count +1; //Increment the loop counter
 
     //Read a file and check if it contains a value we need to know
-    $file_to_read = "C:/xampp2/htdocs/notify/log.txt";
+    $file_to_read = "C:/xampp/htdocs/notify/log.txt";
     $file_contents = file_get_contents($file_to_read);
 
     // Run Code Below if the log file changes, you will get a Slack message.
