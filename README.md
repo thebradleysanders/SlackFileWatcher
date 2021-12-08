@@ -1,4 +1,4 @@
-#PHP Course: Sending Notifications
+# PHP Course: Sending Notifications
 
 *	First for PHP you will need a webserver: https://www.apachefriends.org/download.html
 *	A Github account will also be preferred: https://github.com/
