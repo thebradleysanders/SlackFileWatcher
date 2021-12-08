@@ -2,6 +2,7 @@
 
 *	First for PHP you will need a webserver: https://www.apachefriends.org/download.html
 *	A Github account will also be preferred: https://github.com/
+*	A good text editor or notepad: https://code.visualstudio.com/download
 *	The files for your webserver will be stored at: C:\Xampp\Htdocs
 *	The full path of the project should be: C:\Xampp\Htdocs\notify\notifyme.php
 *	Download the project & place contents to C:\xampp\htdocs: https://github.com/thebradleysanders/SlackFileWatcher/archive/refs/heads/main.zip
